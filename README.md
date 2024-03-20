@@ -1,2 +1,2 @@
-# GPTChatBot
+# GPTDemoChatBot
 ChatBot developed on OPEN AI GPT2 Model
